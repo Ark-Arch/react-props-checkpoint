@@ -6,15 +6,15 @@ const players = [
         nationality:"Argentinean",
         jerseyNumber:10,
         age: 37,
-        url:''
+        url:'../../public/lionel-messi.jpg'
     },
     {
-        name:"Ronaldo",
+        name:"Christiano Ronaldo",
         team:"Real Madrid",
         nationality:"Portuguese",
         jerseyNumber:7,
         age:40,
-        url:''
+        url:'../../public/christiano-ronaldo.jpg'
     },
     {
         name:"Lamine Yamal",
@@ -22,7 +22,7 @@ const players = [
         nationality:"Spanish",
         jerseyNumber:19,
         age:17,
-        url:''
+        url:'../../public/lamine-yamal.jpg'
     },
     {
         name:"Pau Cubarsi",
@@ -30,6 +30,6 @@ const players = [
         nationality:"Spanish",
         jerseyNumber:2,
         age:18,
-        url:''
+        url:'../../public/pau-cubarsi.jpg'
     }
 ]
