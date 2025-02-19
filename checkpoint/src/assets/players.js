@@ -1,20 +1,13 @@
 
 const players = [
+
     {   
-        name:"Messi", 
+        name:"Robert Lewandowski", 
         team:"FC Barcelona", 
-        nationality:"Argentinean",
-        jerseyNumber:10,
-        age: 37,
-        url:'../../public/lionel-messi.jpg'
-    },
-    {
-        name:"Christiano Ronaldo",
-        team:"Real Madrid",
-        nationality:"Portuguese",
-        jerseyNumber:7,
-        age:40,
-        url:'../../public/christiano-ronaldo.jpg'
+        nationality:"Polish",
+        jerseyNumber:9,
+        age: 36,
+        url:'/robert-lewandowski.webp'
     },
     {
         name:"Lamine Yamal",
@@ -22,7 +15,7 @@ const players = [
         nationality:"Spanish",
         jerseyNumber:19,
         age:17,
-        url:'../../public/lamine-yamal.jpg'
+        url:'/lamine-yamal.webp'
     },
     {
         name:"Pau Cubarsi",
@@ -30,7 +23,15 @@ const players = [
         nationality:"Spanish",
         jerseyNumber:2,
         age:18,
-        url:'../../public/pau-cubarsi.jpg'
+        url:'/pau-cubarsi.webp'
+    },
+    {
+        name:"Marc-Andre Terstegen",
+        team:"FC Barcelona",
+        nationality:"Spanish",
+        jerseyNumber:1,
+        age:32,
+        url:'/marc-andre-terstegen.webp'
     }
 ]
 
