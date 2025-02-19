@@ -1,11 +1,11 @@
 import './App.css'
-import Player from './components/Player'
+import PlayerList from './components/PlayerList'
 
 function App() {
 
   return (
     <>
-      <Player />
+      <PlayerList />
     </>
   )
 }

@@ -33,3 +33,5 @@ const players = [
         url:'../../public/pau-cubarsi.jpg'
     }
 ]
+
+export default players
